@@ -19,3 +19,4 @@ public static void main(String[] args) {
   System.out.println("Your BMI is at: " + bmi);
   }
 }
+//next step: add loops... 
